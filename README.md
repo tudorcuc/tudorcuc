@@ -1,6 +1,6 @@
-# Hi there, I'm Tudor! 👋
+# 👋 I'm Tudor! 
 
-Hey there! Welcome to my profile! I’m all about coding and love bringing ideas to life with projects that tackle real-world challenges. Whether it's crafting web apps, contributing to open-source projects, or diving into the latest tech trends, I’m always pumped to learn and create. Let's make something awesome together!
+Hey there! Welcome to my profile! I’m all about coding and love bringing ideas to life with different projects. I’m always pumped to learn and create. Let's make something awesome together!
 
 ## 🛠️ Technologies & Tools
 
