@@ -19,10 +19,6 @@ Meet FloatingPointUnit, a VHDL project designed to handle precise floating-point
 ### [ChessMatch](https://github.com/tudorcuc/Chess-Game-Design)
 Explore ChessMatchDesign, an Assembly language project that recreates a specific chess match every time you open the app. This project showcases the intricate design and moves of a classic game.
 
-## ♗ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tudorcuc&show_icons=true&theme=radical)
-
 ## ♕ Connect with me!
 
 - Email: [tudorcuc2002@yahoo.com](mailto:tudorcuc2002@yahoo.com)
