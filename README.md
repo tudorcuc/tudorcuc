@@ -14,7 +14,7 @@ Hey there! Welcome to my profile! I’m all about coding and love bringing ideas
 Introducing Sonar, your go-to music recommendation application! Discover, play, and manage your favorite songs effortlessly. Built using React for a smooth user experience and Spring Boot for robust backend support, Sonar makes your musical journey enjoyable and straightforward.
 
 ### [FPUnit](https://github.com/tudorcuc/Floating-Point-Calculation-Unit)
-Meet FloatingPointUnit, a VHDL project designed to handle precise floating-point calculations with ease. Perfect for engineers and tech enthusiasts, this project simplifies complex arithmetic operations, providing accurate results for your digital designs.
+Meet FloatingPointUnit, a VHDL project designed to handle precise floating-point calculations with ease. Perfect for engineers, this project simplifies complex arithmetic operations, providing accurate results.
 
 ### [ChessMatch](https://github.com/tudorcuc/Chess-Game-Design)
 Explore ChessMatchDesign, an Assembly language project that recreates a specific chess match every time you open the app. This project showcases the intricate design and moves of a classic game.
